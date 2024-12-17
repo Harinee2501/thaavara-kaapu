@@ -1,6 +1,6 @@
-Smart Agricultural Monitoring System
+# **Thavara Kaapu**
 
-Overview
+## **Overview**
 
 The Smart Agricultural Monitoring System is a digital platform designed to empower farmers by integrating AI, IoT sensors, and regional accessibility features. The platform aims to help farmers monitor crop health, water levels, nutrient levels, and weather conditions, with a strong focus on early detection of diseases and efficient resource management. The application is built to operate offline with periodic updates, ensuring accessibility in remote areas.
 
@@ -16,7 +16,7 @@ Seamless integration with IoT sensors (if deployed).
 
 Alternate functionalities for farmers without IoT devices.
 
-Features
+## **Features**
 
 1. Home Page & Voice Assistance
 
@@ -90,7 +90,7 @@ Voice-based notifications for critical updates (e.g., pest detection, low water 
 
 Offline notifications indicate the last update date.
 
-Technology Stack
+## **Technology Stack**
 
 IoT Devices & Sensors
 
@@ -124,7 +124,7 @@ Offline Functionality
 
 Data caching for updates and notifications.
 
-How It Works
+## **How It Works**
 
 Case 1: IoT Sensors Deployed
 
